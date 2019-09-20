@@ -1,0 +1,27 @@
+{
+  "id": "1321b3c8-f56d-492c-92c3-b22312bbc8da",
+  "name": "JsonGitHubIssueDemo",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "features": ["TranslationFile"],
+  "contextSensitiveHelpUrl": "https://JsonGitHubIssueDemo.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
